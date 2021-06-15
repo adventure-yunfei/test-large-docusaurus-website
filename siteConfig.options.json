@@ -1,0 +1,11 @@
+{
+  "baseUrl": "/",
+  "headerLinks": [
+    {
+      "type": "doc",
+      "docId": "apis/name-0.name-1",
+      "label": "API"
+    }
+  ],
+  "title": "pkg"
+}
